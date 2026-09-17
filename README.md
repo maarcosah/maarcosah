@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-dots-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/avatar-dots-light.svg">
-  <img src="assets/avatar-dots-dark.svg" width="200" alt="dot-matrix avatar">
-</picture>
-
 ```
 ███╗   ███╗ █████╗ ██████╗  ██████╗ ██╗   ██╗███████╗████████╗███████╗
 ████╗ ████║██╔══██╗██╔══██╗██╔═══██╗██║   ██║██╔════╝╚══██╔══╝██╔════╝
@@ -15,7 +9,15 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-dots-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/avatar-dots-light.svg">
+  <img src="assets/avatar-dots-dark.svg" width="200" alt="dot-matrix avatar">
+</picture>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Software+Developer+%3Ap;Coffee+Powered%E2%98%95;Always+Learning+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=maarcosah&color=F70000&style=flat&label=profile+views)
 
 </div>
 
@@ -95,7 +97,11 @@
   <img src="https://raw.githubusercontent.com/maarcosah/maarcosah/output/snake-dark.svg" alt="contribution snake animation">
 </picture>
 
-![](https://github-stats-extended.vercel.app/api?username=maarcosah&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img src="assets/stats-dark.svg" alt="GitHub stats including private commits">
+</picture>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=maarcosah&theme=dark&hide_border=true)
 
