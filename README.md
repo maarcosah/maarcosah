@@ -42,12 +42,6 @@
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter" alt="React, Next.js, TailwindCSS, Vite, Flutter">
 
-<br>
-
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white)
-
 </td>
 </tr>
 <tr>
@@ -55,11 +49,6 @@
 <td>
 
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,bun,npm" alt="NodeJS, .NET, Laravel, Bun, NPM">
-
-<br>
-
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 
 </td>
 </tr>
@@ -69,10 +58,6 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" alt="MySQL, Postgres, Supabase, Firebase">
 
-<br>
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-
 </td>
 </tr>
 <tr>
@@ -81,12 +66,6 @@
 
 <img src="https://skillicons.dev/icons?i=blender,figma" alt="Blender, Figma">
 
-<br>
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c)
-
 </td>
 </tr>
 <tr>
@@ -94,12 +73,6 @@
 <td>
 
 <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,unity" alt="Git, GitHub, Bitbucket, Docker, Postman, Unity">
-
-<br>
-
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
 </td>
 </tr>
