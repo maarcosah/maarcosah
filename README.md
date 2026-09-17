@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/avatar-dots-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/avatar-dots-light.svg">
+  <img src="assets/avatar-dots-dark.svg" width="200" alt="dot-matrix avatar">
+</picture>
+
 ```
 ███╗   ███╗ █████╗ ██████╗  ██████╗ ██╗   ██╗███████╗████████╗███████╗
 ████╗ ████║██╔══██╗██╔══██╗██╔═══██╗██║   ██║██╔════╝╚══██╔══╝██╔════╝
@@ -14,6 +20,8 @@
 </div>
 
 <br>
+
+---
 
 ## 💻 Tech Stack
 
@@ -75,15 +83,23 @@
 
 <br>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=maarcosah&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maarcosah/maarcosah/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maarcosah/maarcosah/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/maarcosah/maarcosah/output/snake-dark.svg" alt="contribution snake animation">
+</picture>
+
+![](https://github-stats-extended.vercel.app/api?username=maarcosah&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=maarcosah&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maarcosah&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=maarcosah&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
