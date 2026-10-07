@@ -15,7 +15,7 @@
   <img src="assets/avatar-dots-dark.svg" width="200" alt="dot-matrix avatar">
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Software+Developer+%3Ap;Coffee+Powered%E2%98%95;Always+Learning+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=DATA+MANAGMENT+%26+MODEL+TRAINING;GYM+RAT+%F0%9F%8F%8B%EF%B8%8F)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=maarcosah&color=F70000&style=flat&label=profile+views)
 
