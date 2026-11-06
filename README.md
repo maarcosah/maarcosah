@@ -92,8 +92,6 @@
   <img src="assets/stats-dark.svg" alt="GitHub stats including private commits">
 </picture>
 
-![](https://nirzak-streak-stats.vercel.app/?user=maarcosah&theme=dark&hide_border=true)
-
 </div>
 
 <br>

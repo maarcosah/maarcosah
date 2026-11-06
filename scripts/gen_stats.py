@@ -24,6 +24,9 @@ query($login: String!, $cursor: String) {
       totalPullRequestContributions
       totalIssueContributions
       totalRepositoryContributions
+      contributionCalendar {
+        weeks { contributionDays { contributionCount } }
+      }
     }
     repositories(ownerAffiliations: OWNER, isFork: false, first: 100, after: $cursor) {
       totalCount
@@ -48,6 +51,25 @@ def graphql(token, variables):
     return payload["data"]["user"]
 
 
+def streaks(counts):
+    """(current, longest) runs of days with contributions, oldest day first.
+
+    Today still in progress with no contributions doesn't break the current
+    streak, so it's skipped.
+    """
+    longest = run = 0
+    for n in counts:
+        run = run + 1 if n else 0
+        longest = max(longest, run)
+    days = counts[:-1] if counts and not counts[-1] else counts
+    current = 0
+    for n in reversed(days):
+        if not n:
+            break
+        current += 1
+    return current, longest
+
+
 def fetch_stats(token):
     cursor = None
     stars = 0
@@ -66,7 +88,13 @@ def fetch_stats(token):
         cursor = repos["pageInfo"]["endCursor"]
 
     commits = contrib["totalCommitContributions"] + contrib["restrictedContributionsCount"]
+    days = [d["contributionCount"]
+            for w in contrib["contributionCalendar"]["weeks"]
+            for d in w["contributionDays"]]
+    current, longest = streaks(days)
     return {
+        "current_streak": f"{current} days",
+        "longest_streak": f"{longest} days",
         "stars": stars,
         "repos": repo_count,
         "commits": commits,
@@ -87,6 +115,8 @@ ROWS = [
     ("Total PRs", "prs"),
     ("Total Issues", "issues"),
     ("Contributed to (last year)", "contributed_to"),
+    ("Current Streak", "current_streak"),
+    ("Longest Streak (last year)", "longest_streak"),
 ]
 
 
