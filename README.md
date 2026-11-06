@@ -15,7 +15,7 @@
   <img src="assets/avatar-dots-dark.svg" width="200" alt="dot-matrix avatar">
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=DATA+MANAGMENT+%26+MODEL+TRAINING;GYM+RAT+%F0%9F%8F%8B%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=DATA+MANAGEMENT+%26+MODEL+TRAINING;GYM+RAT+%F0%9F%8F%8B%EF%B8%8F)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=maarcosah&color=F70000&style=flat&label=profile+views)
 
@@ -37,42 +37,34 @@
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Frontend</b></td>
+<td valign="top"><b>Data Science & ML</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter" alt="React, Next.js, TailwindCSS, Vite, Flutter">
+<img src="assets/icons-ds.svg" alt="pandas, NumPy, Matplotlib"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow" alt="scikit-learn, TensorFlow">
 
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Backend</b></td>
+<td valign="top"><b>Data Engineering</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,bun,npm" alt="NodeJS, .NET, Laravel, Bun, NPM">
+<img src="assets/icons-de.svg" alt="Dask, Apache Parquet"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase" alt="Postgres, MySQL, SQLite, Supabase, Firebase">
 
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Bases de datos</b></td>
+<td valign="top"><b>Cloud y DevOps</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" alt="MySQL, Postgres, Supabase, Firebase">
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,git,github,bitbucket,postman" alt="AWS, Cloudflare, Vercel, Docker, Git, GitHub, Bitbucket, Postman">
 
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Diseño y multimedia</b></td>
+<td valign="top"><b>También</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=blender,figma" alt="Blender, Figma">
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Herramientas y DevOps</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,unity" alt="Git, GitHub, Bitbucket, Docker, Postman, Unity">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter,nodejs,dotnet,laravel,bun,npm,blender,figma,unity&perline=7" alt="React, Next.js, TailwindCSS, Vite, Flutter, NodeJS, .NET, Laravel, Bun, NPM, Blender, Figma, Unity">
 
 </td>
 </tr>
