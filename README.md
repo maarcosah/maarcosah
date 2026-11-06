@@ -48,7 +48,9 @@
 <td valign="top"><b>Data Engineering</b></td>
 <td>
 
-<img src="assets/icons-de.svg" alt="Dask, Apache Parquet"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase" alt="Postgres, MySQL, SQLite, Supabase, Firebase">
+<img src="assets/icons-de.svg" alt="Dask, Apache Parquet"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Postgres, MySQL, SQLite">
+<br>
+<img src="https://skillicons.dev/icons?i=supabase,firebase" alt="Supabase, Firebase">
 
 </td>
 </tr>
@@ -56,7 +58,7 @@
 <td valign="top"><b>Cloud y DevOps</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,git,github,bitbucket,postman" alt="AWS, Cloudflare, Vercel, Docker, Git, GitHub, Bitbucket, Postman">
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,git,github,bitbucket,postman&perline=5" alt="AWS, Cloudflare, Vercel, Docker, Git, GitHub, Bitbucket, Postman">
 
 </td>
 </tr>
@@ -64,7 +66,7 @@
 <td valign="top"><b>También</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter,nodejs,dotnet,laravel,bun,npm,blender,figma,unity&perline=7" alt="React, Next.js, TailwindCSS, Vite, Flutter, NodeJS, .NET, Laravel, Bun, NPM, Blender, Figma, Unity">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter,nodejs,dotnet,laravel,bun,npm,blender,figma,unity&perline=5" alt="React, Next.js, TailwindCSS, Vite, Flutter, NodeJS, .NET, Laravel, Bun, NPM, Blender, Figma, Unity">
 
 </td>
 </tr>
