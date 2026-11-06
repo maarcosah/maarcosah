@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td valign="top"><b>Lenguajes</b></td>
+<td valign="top"><b>Languages</b></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=py,java,js,ts" alt="Python, Java, JavaScript, TypeScript">
@@ -55,7 +55,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Cloud y DevOps</b></td>
+<td valign="top"><b>Cloud & DevOps</b></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,git,github,bitbucket,postman&perline=5" alt="AWS, Cloudflare, Vercel, Docker, Git, GitHub, Bitbucket, Postman">
@@ -63,7 +63,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top"><b>También</b></td>
+<td valign="top"><b>Also</b></td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter,nodejs,dotnet,laravel,bun,npm,blender,figma,unity&perline=5" alt="React, Next.js, TailwindCSS, Vite, Flutter, NodeJS, .NET, Laravel, Bun, NPM, Blender, Figma, Unity">
