@@ -25,6 +25,14 @@
 
 ---
 
+## 👋 About me
+
+- 📊 I work with **data**: wrangling and storing it with pandas, Dask, Parquet and SQL, and training models with scikit-learn and TensorFlow.
+- 💻 Coming from **software development**: web apps, backends and the occasional game in Unity.
+- 🏋️ Gym rat, ☕ coffee powered.
+
+---
+
 ## 💻 Tech Stack
 
 <table>
