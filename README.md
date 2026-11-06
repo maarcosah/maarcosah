@@ -27,9 +27,11 @@
 
 ## 👋 About me
 
-- 📊 I work with **data**: wrangling and storing it with pandas, Dask, Parquet and SQL, and training models with scikit-learn and TensorFlow.
-- 💻 Coming from **software development**: web apps, backends and the occasional game in Unity.
-- 🏋️ Gym rat, ☕ coffee powered.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg">
+  <img src="assets/about-dark.svg" width="100%" alt="About me: focused on Data Engineering and Data Science. Wrangles data with pandas, Dask, Parquet and SQL; trains models with scikit-learn and TensorFlow. Background in software development: web apps, backends and the odd Unity game. Hobbies: gym, music and videogames.">
+</picture>
 
 ---
 
