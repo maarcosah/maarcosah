@@ -17,6 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=DATA+MANAGEMENT+%26+MODEL+TRAINING;GYM+RAT+%F0%9F%8F%8B%EF%B8%8F)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/portfolio-maarcosah.com-F70000?style=flat&logo=googlechrome&logoColor=white)](https://maarcosah.com)
 ![Profile views](https://komarev.com/ghpvc/?username=maarcosah&color=F70000&style=flat&label=profile+views)
 
 </div>
